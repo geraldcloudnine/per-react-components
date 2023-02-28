@@ -14,8 +14,8 @@
     "start": "microbundle --jsx React.createElement watch --css-modules false --format modern,cjs,umd"
   },
   "peerDependencies": {
-    "react": ">= 17.0.0 < 18.0.0",
-    "react-dom": ">= 17.0.0 < 18.0.0"
+    "react": ">= 17.0.0 < 18.2.0",
+    "react-dom": ">= 17.0.0 < 18.2.0"
   },
   "files": [
     "dist"
@@ -25,13 +25,13 @@
     "react-hubspot-form": "^1.3.7",
     "react-instantsearch-dom": "^6.9.0",
     "react-modal": "^3.12.1",
-    "react-select": "^4.2.1"
+    "react-select": "^5.7.0"
   },
   "devDependencies": {
     "microbundle": "^0.13.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "^4.0.2",
-    "sass": "^1.32.6"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.58.3"
   }
 }
